@@ -1,2 +1,4 @@
-# Site Funtec
-That's a site that i made on a course in Funtec (Fundação de Formação Tecnológica de Ribeiro Preto)/ (Tecnology foundation of Ribeirão Preto).
+#Funtec Website
+This is a website that I created during a course at Funtec (Fundação de Formação Tecnológica de Ribeirão Preto) / (Technology Foundation of Ribeirão Preto).
+
+It is a generic website designed for practicing bootstrap creation.
