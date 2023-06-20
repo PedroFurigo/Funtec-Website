@@ -1,1 +1,56 @@
+main{
+   padding: 9%;
+}
+.bd-footer-links {
+    padding-left: 0;
+    margin-bottom: 1rem;
+  }
+  
+  .bd-footer-links li {
+    display: inline-block;
+  }
+  
+  .bd-footer-links li + li {
+    margin-left: 1rem;
+  }
+  .bd-footer {
+    font-size: 85%;
+    text-align: center;
+    background-color: #f7f7f7
+}
 
+.bd-footer a {
+    font-weight: 500;
+    color: #495057;
+    text-decoration:none;
+}
+
+.bd-footer a:focus,.bd-footer a:hover {
+    color: #007bff
+}
+
+.bd-footer p {
+    margin-bottom: 0
+}
+@media (min-width: 576px) {
+    .bd-footer {
+        text-align:left
+    }
+}
+.algolia-autocomplete .algolia-docsearch-footer {
+    float: none!important;
+    width: auto!important;
+    height: auto!important;
+    padding: .75rem 1rem 0;
+    font-size: .75rem!important;
+    line-height: 1!important;
+    color: #767676!important;
+    border-top: 1px solid rgba(0,0,0,.1)
+}
+.algolia-autocomplete .algolia-docsearch-footer--logo {
+    display: inline!important;
+    overflow: visible!important;
+    color: inherit!important;
+    text-indent: 0!important;
+    background: 0 0!important
+}
